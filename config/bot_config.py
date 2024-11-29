@@ -28,3 +28,6 @@ def load_bot_config(path: str | None = None) -> ConfigBot:
                                  port=int(env('REDIS_PORT')),
                                  db=int(env('REDIS_DB')),
                                  password=env('REDIS_PASSWORD')))
+
+
+

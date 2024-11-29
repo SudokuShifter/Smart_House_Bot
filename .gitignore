@@ -65,3 +65,9 @@ docs/html
 
 # pynev
 .python-version
+
+# databases
+db.sqlite3
+db.sqlite3-shm
+db.sqlite3-wal
+
